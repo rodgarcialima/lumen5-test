@@ -1,5 +1,7 @@
 ## Lumen5 Test
-Simple todo using React Hooks
+Simple TODO using React Hooks
 
-## Rodrigo Lima
-rodgarcialima@gmail.com
+![Alt text](/todo.png?raw=true "TODO")
+
+## Author
+Rodrigo Lima <rodgarcialima@gmail.com>
